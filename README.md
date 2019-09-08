@@ -1,6 +1,6 @@
 # educational_administration
 
-> A Vue.js project
+> A Vue.js and it's ecosystem project
 
 ## Build Setup
 
