@@ -1,6 +1,7 @@
 # educational_administration
 
-> A Vue.js and it's ecosystem project
+基于Vue.js及其生态 + Ant Design +  SpringBoot + MyBatis +Shiro的高校教务管理系统，
+这是教务管理系统的子系统--成绩管理系统的前端代码
 
 ## Build Setup
 
@@ -18,4 +19,3 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
